@@ -25,3 +25,4 @@ jobs:
           SLACK_POST_CHANNEL_ID: ${{ secrets.SLACK_POST_CHANNEL_ID }}
           LANGUAGE: English
           TIMEZONE: America/Chicago
+          CHAT_MODEL: gpt-4-turbo-preview
